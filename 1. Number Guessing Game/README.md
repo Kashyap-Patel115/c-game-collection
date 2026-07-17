@@ -1,6 +1,6 @@
 # Number Guessing Game
 
-A simple console-based Number Guessing Game written in C.
+A simple console-based Number Guessing Game written in C language.
 
 ## Features
 
